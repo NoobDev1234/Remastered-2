@@ -8,6 +8,7 @@ Mod The Galaxy Tre Files (Full Credit)
 Core3 – SWG Emu Team (FULL Credit)
 SWG Infinity – We used their /regrantskills command and we used some of their slicing code. (FULL CREDIT)
 Cesta – We used his Galaxy Harvester Resource Generation Logic and take no credit for the work (FULL CREDIT)
+TheTinyPebble - for always assisting with issues, ideas, or just letting me vent!
 
 Many of our QOL Changes can be found on the EMU forums, under the forum post labeled Just For Fun 2.0.
 
